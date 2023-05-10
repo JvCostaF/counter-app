@@ -27,7 +27,7 @@ const NavBar = ({ totalCounters }) => {
               className="navbar-brand"
               href="https://www.youtube.com/watch?v=Ke90Tje7VS0"
           >
-              Watch: "React for Beginners"
+              Primeiro Contato com React
           </a>
       </nav>
   );
