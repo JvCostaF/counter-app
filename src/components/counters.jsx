@@ -28,7 +28,6 @@ class Counters extends React.Component {
               {counters.map((counter) => (
                   <Counter
                       key={counter.id}
-                      // Counter component raises these events and we are bubbling them up to its parent
                       onDelete={onDelete}
                       onIncrement={onIncrement}
                       onDecrement={onDecrement}

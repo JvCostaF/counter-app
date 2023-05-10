@@ -23,12 +23,6 @@ const NavBar = ({ totalCounters }) => {
                   alt="logo"
               />
           </a>
-          <a
-              className="navbar-brand"
-              href="https://www.youtube.com/watch?v=Ke90Tje7VS0"
-          >
-              Primeiro Contato com React
-          </a>
       </nav>
   );
 };
